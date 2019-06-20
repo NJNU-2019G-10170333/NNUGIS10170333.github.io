@@ -7,7 +7,7 @@
 ### [地图投影](http://2bhuanleduo.github.io//public//地图投影.html)  
 ### [江苏省面积计算](http://2bhuanleduo.github.io//public//面积计算.html)  
 ### [道格拉斯普克算法](http://2bhuanleduo.github.io//public//数据压缩.html)  
-### [四叉树Morton码](http://NJNU-2019G-10170333/NNUGIS10170333.github.io/blob/master/四叉树（最终）.html)  
+### [四叉树Morton码](http://NJNU-2019G-10170333/NNUGIS10170333.github.io/四叉树（最终）.html)  
 ### [地图符号绘制](http://2bhuanleduo.github.io//public//地图符号.html)  
 ### [左转算法](http://2bhuanleduo.github.io//public//左转算法.html)  
 ### [矢量转栅格](http://2bhuanleduo.github.io//public//矢量转栅格.html)  
